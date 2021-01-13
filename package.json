@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-uuid3",
+  "name": "mongoose-uuidBSONFIX",
   "version": "0.0.1",
   "description": "UUID schema type for mongoose with BSON version fix",
   "main": "index.js",

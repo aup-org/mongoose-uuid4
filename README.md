@@ -1,4 +1,4 @@
-# Mongoose UUID Data type with BSON version update
+# Mongoose UUID Data type (JUST FOR BSON VERSION UPDATE)
 ========================
 
 [![NPM Package](https://img.shields.io/npm/v/mongoose-uuid2.svg?style=flat-square)](https://www.npmjs.org/package/mongoose-uuid2)

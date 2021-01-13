@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-uuidBSONFIX",
+  "name": "mongoose-uuid4",
   "version": "0.0.1",
   "description": "UUID schema type for mongoose with BSON version fix",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "Erinc Kuzu <erinckuzu@gmail.com> (http://github.com/erinckuzu)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ekuzu/mongoose-uuid3.git"
+    "url": "https://github.com/ekuzu/mongoose-uuid4.git"
   },
   "license": "ISC",
   "dependencies": {

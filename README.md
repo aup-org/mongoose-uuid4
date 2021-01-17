@@ -21,7 +21,7 @@ var uuidv4 = require('uuid/v4');
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 // Will add the UUID type to the Mongoose Schema types
-require('mongoose-uuid2')(mongoose);
+require('mongoose-uuid4')(mongoose);
 var UUID = mongoose.Types.UUID;
 
 var ProductSchema = Schema({
